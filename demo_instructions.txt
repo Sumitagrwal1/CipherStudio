@@ -1,0 +1,10 @@
+CipherStudio Demo Script (2-3 minutes)
+
+1. Open the app (http://localhost:3000).
+2. Create a new project (click New Project) — show file explorer.
+3. Create a new file `App.jsx` and paste a small React component.
+4. Toggle autosave on, modify code, show live preview updating.
+5. Save project to backend (click Save). Show projectId appears.
+6. Reload the page, load the saved project by entering projectId and clicking Load.
+7. Show theme switcher (dark/light) and mobile responsiveness by resizing.
+8. Mention authentication and deployment steps from README.
